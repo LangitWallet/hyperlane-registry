@@ -2,6 +2,6 @@
   "name": "Celestia",
   "symbol": "TIA",
   "description": "Warp Route TIA",
-  "image": "https://raw.githubusercontent.com/hyperlane-xyz/hyperlane-registry/refs/heads/main/deployments/warp_routes/TIA/logo.svg",
+  "image": "https://raw.githubusercontent.com/LangitWallet/hyperlane-registry/refs/heads/main/deployments/warp_routes/TIA/logo.svg",
   "attributes": []
 }

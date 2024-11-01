@@ -2,6 +2,6 @@
   "name": "Tether USD",
   "symbol": "USDT",
   "description": "Warp Route USDT",
-  "image": "https://raw.githubusercontent.com/hyperlane-xyz/hyperlane-registry/refs/heads/main/deployments/warp_routes/USDT/logo.svg",
+  "image": "https://raw.githubusercontent.com/LangitWallet/hyperlane-registry/refs/heads/main/deployments/warp_routes/USDT/logo.svg",
   "attributes": []
 }

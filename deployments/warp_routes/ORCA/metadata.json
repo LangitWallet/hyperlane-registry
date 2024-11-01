@@ -2,6 +2,6 @@
   "name": "Orca",
   "symbol": "ORCA",
   "description": "Warp Route ORCA",
-  "image": "https://raw.githubusercontent.com/hyperlane-xyz/hyperlane-registry/refs/heads/main/deployments/warp_routes/ORCA/logo.svg",
+  "image": "https://raw.githubusercontent.com/LangitWallet/hyperlane-registry/refs/heads/main/deployments/warp_routes/ORCA/logo.svg",
   "attributes": []
 }

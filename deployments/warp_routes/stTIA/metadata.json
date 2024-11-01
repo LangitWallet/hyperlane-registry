@@ -2,6 +2,6 @@
   "name": "Stride Staked TIA",
   "symbol": "stTIA",
   "description": "Warp Route stTIA",
-  "image": "https://raw.githubusercontent.com/hyperlane-xyz/hyperlane-registry/refs/heads/main/deployments/warp_routes/stTIA/logo.svg",
+  "image": "https://raw.githubusercontent.com/LangitWallet/hyperlane-registry/refs/heads/main/deployments/warp_routes/stTIA/logo.svg",
   "attributes": []
 }

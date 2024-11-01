@@ -175,12 +175,12 @@ describe('Registry utilities', () => {
     });
     it('always uses the public api if rate limit has been not been hit', async ()=> {
       getApiRateLimitStub.returns({ remaining: 10 } );
-      expect(await proxiedGithubRegistry.getApiUrl()).to.equal(`${GITHUB_API_URL}/repos/hyperlane-xyz/hyperlane-registry/git/trees/main?recursive=true`);
+      expect(await proxiedGithubRegistry.getApiUrl()).to.equal(`${GITHUB_API_URL}/repos/LangitWallet/hyperlane-registry/git/trees/main?recursive=true`);
     })
   
     it('should fallback to proxy url if public rate limit has been hit', async () => {
       getApiRateLimitStub.returns({ remaining: 0 } );
-      expect(await proxiedGithubRegistry.getApiUrl()).to.equal(`${proxyUrl}/repos/hyperlane-xyz/hyperlane-registry/git/trees/main?recursive=true`);
+      expect(await proxiedGithubRegistry.getApiUrl()).to.equal(`${proxyUrl}/repos/LangitWallet/hyperlane-registry/git/trees/main?recursive=true`);
     })
   })  
 });

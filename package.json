@@ -50,7 +50,7 @@
     "node": ">=16"
   },
   "homepage": "https://www.hyperlane.xyz",
-  "repository": "https://github.com/hyperlane-xyz/hyperlane-registry",
+  "repository": "https://github.com/LangitWallet/hyperlane-registry",
   "keywords": [
     "Hyperlane",
     "Registry",
